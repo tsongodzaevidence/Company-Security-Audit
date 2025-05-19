@@ -17,3 +17,9 @@ Your task is to review the IT manager’s scope, goals, and risk assessment repo
 
 ## Overview Of The Singular Value Decomposition Architecture  
 ![](1.Scope.png) 
+
+## Overview Of The Singular Value Decomposition Architecture  
+![](2.RiskAssessment.png) 
+
+## Overview Of The Singular Value Decomposition Architecture  
+![](3.RiskAssessment.png) 
