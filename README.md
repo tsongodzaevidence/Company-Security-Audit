@@ -1,7 +1,7 @@
 # Company-Security-Audit
 Internal Security Audit (fictional company)
 
-##Scenario
+## Scenario
 
 Review the following scenario. Then complete the step-by-step instructions.
 
