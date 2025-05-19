@@ -21,3 +21,9 @@ Your task is to review the IT manager’s scope, goals, and risk assessment repo
 ## Risk Assessment Analysis
 ![](2.RiskAssessment.png) 
 ![](3.RiskAssessment.png) 
+
+## I then went on to perform a Controls and compliance checklist
+
+![](4.ControlsAndComplianceChecklist.png) 
+![](5.ControlsAndComplianceChecklist.png) 
+![](6.ControlsAndComplianceChecklist.png) 
